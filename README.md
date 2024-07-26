@@ -11,15 +11,21 @@ Total Images: 4679 (4666 annotated)
 Pre-processing Steps:
 
 Auto-orientation of pixel data (EXIF-orientation stripping)
+
 Resizing to 416x416 pixels
+
 No image augmentation techniques applied
 
 Models and Performance
 
 CNN:
+
 Accuracy: 90%
+
 Correct Predictions: 766 out of 896
 
 Vision Transformers:
+
 Accuracy: 86%
+
 Weighted Average F1-score: 85%
